@@ -1,9 +1,9 @@
 {
-  "name": "stay-hydrated",
+  "name": "ink-template",
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "bun src/index.tsx"
+    "start": "bun src/main.tsx"
   },
   "devDependencies": {
     "bun-types": "latest"
